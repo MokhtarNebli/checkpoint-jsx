@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+}
+.form-2 {
+    display: flex;
+    width: 100%;
+    font-size: 18px;
+    justify-content: center;
+    text-align: center;
+color: white;
+    
+}
+.form-1 {
+  display: flex;
+  width: 100%;
+  font-size: 18px;
+  justify-content: center;
+  text-align: center ;
+  color: white;
+}
+.pic {
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 100%;
+}
